@@ -1,0 +1,10 @@
+.App {
+  /* text-align: center; */
+  background-color: rgb(255, 150, 131);
+  height: 100vh;
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-evenly;
+  overflow: scroll;
+}
+
